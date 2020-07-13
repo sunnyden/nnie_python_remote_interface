@@ -16,7 +16,7 @@ setuptools.setup(
     'opencv-python',
     'numpy',
     ],
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/sunnyden/nnie_python_remote_interface",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
